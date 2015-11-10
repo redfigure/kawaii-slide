@@ -1,0 +1,21 @@
+{
+  "name": "kawaii-slide",
+  "authors": [
+    "Ayumu Osanai <osanai@jarfarm.com>"
+  ],
+  "description": "I want to kawaii slide.",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "slide"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.jarfarm.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
